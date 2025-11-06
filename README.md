@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Perry-Weinthal
 - 👀 I’m interested in electrons, protons, quarks
-- 🌱 I’m currently learning herding electrons
+- 🌱 I’m currently learning & herding electrons
 - 💞️ I’m looking to collaborate on keeping the smoke in.
 - 📫 How to reach me perry@weinthal.org
 - 😄 Pronouns: Earthling, Engineer, Taxpayer
